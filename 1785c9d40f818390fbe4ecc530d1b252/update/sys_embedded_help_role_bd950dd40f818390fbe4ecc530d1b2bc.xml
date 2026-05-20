@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1964042_gf_app.user" name="x_1964042_gf_app.user">a9950dd40f818390fbe4ecc530d1b2ba</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-20 05:57:36</sys_created_on>
+        <sys_id>bd950dd40f818390fbe4ecc530d1b2bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a9950dd40f818390fbe4ecc530d1b2ba</sys_name>
+        <sys_package display_value="GF App" source="x_1964042_gf_app">1785c9d40f818390fbe4ecc530d1b252</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF App">1785c9d40f818390fbe4ecc530d1b252</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bd950dd40f818390fbe4ecc530d1b2bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-20 05:57:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
